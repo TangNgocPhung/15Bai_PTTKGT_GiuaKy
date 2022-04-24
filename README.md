@@ -1,4 +1,4 @@
-# PTTKGT
+# 15Bai_PTTKGT_GiuaKy
 Bài thực hành 1: Cài đặt và tìm hiểu luật Horner cho đa thức
 
 Bài thực hành 2: Cài đặt chứng minh độ phức tạp, giải thuật Strassen cho nhân ma trận
